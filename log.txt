@@ -11,3 +11,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0199. ✨ feat: create admin dashboard
 0639. 🐛 fix: correct typo in registration form
+1000. ✅ test: increase coverage on auth module
