@@ -214,3 +214,4 @@
 0820. 📚 docs: add API usage examples
 0673. 🐛 fix: correct typo in registration form
 0174. 📚 docs: clarify environment setup
+0568. 🐛 fix: handle 500 error in quiz API
