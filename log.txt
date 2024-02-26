@@ -23,3 +23,4 @@
 0655. 🚀 perf: cache repeated calculations
 0481. ✅ test: add unit test for quiz service
 0335. ♻️ chore: update .gitignore
+0749. ✨ feat: support email verification
