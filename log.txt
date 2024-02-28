@@ -221,3 +221,4 @@
 0664. ✅ test: add unit test for quiz service
 0684. 🚀 perf: reduce image load time
 0123. ✨ feat: implement quiz timer feature
+0947. 📚 docs: write FAQ section
