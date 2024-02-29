@@ -222,3 +222,4 @@
 0684. 🚀 perf: reduce image load time
 0123. ✨ feat: implement quiz timer feature
 0947. 📚 docs: write FAQ section
+0572. ✨ feat: add user authentication
