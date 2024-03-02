@@ -223,3 +223,4 @@
 0123. ✨ feat: implement quiz timer feature
 0947. 📚 docs: write FAQ section
 0572. ✨ feat: add user authentication
+0202. 🔧 refactor: refactor quiz grading logic
