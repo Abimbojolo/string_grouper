@@ -227,3 +227,4 @@
 0896. 🚀 perf: reduce image load time
 0515. 🚀 perf: optimize database query for quiz results
 0086. 🐛 fix: correct typo in registration form
+0654. ✨ feat: create admin dashboard
