@@ -236,3 +236,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0282. 🔧 refactor: remove redundant code blocks
 0447. ♻️ chore: bump dependencies
+0988. 🐛 fix: fix broken CSS in mobile view
