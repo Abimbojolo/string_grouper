@@ -42,3 +42,4 @@
 0619. ✨ feat: create admin dashboard
 0390. 🎨 style: standardize quote style
 0500. ✅ test: add integration test for /submit endpoint
+0988. 🐛 fix: fix broken CSS in mobile view
