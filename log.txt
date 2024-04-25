@@ -41,3 +41,4 @@
 0616. 🚀 perf: lazy-load components
 0619. ✨ feat: create admin dashboard
 0390. 🎨 style: standardize quote style
+0500. ✅ test: add integration test for /submit endpoint
