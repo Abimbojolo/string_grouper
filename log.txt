@@ -244,3 +244,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0699. 🎨 style: standardize quote style
 0073. 🔧 refactor: split large controller into smaller functions
+0561. 📚 docs: write FAQ section
