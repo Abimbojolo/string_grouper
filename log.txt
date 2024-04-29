@@ -40,3 +40,4 @@
 0238. 🎨 style: apply consistent indentation
 0391. 🐛 fix: fix null pointer exception on login
 0114. ♻️ chore: update .gitignore
+0543. ✨ feat: support email verification
