@@ -246,3 +246,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0561. 📚 docs: write FAQ section
 0142. ✨ feat: implement quiz timer feature
+0901. ✨ feat: add user authentication
