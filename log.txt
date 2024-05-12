@@ -44,3 +44,4 @@
 0928. 🎨 style: apply consistent indentation
 0599. ✅ test: test user registration edge cases
 0886. ♻️ chore: clean up unused files
+0043. ✅ test: add integration test for /submit endpoint
