@@ -248,3 +248,4 @@
 0142. ✨ feat: implement quiz timer feature
 0901. ✨ feat: add user authentication
 0453. 🎨 style: standardize quote style
+0247. 🎨 style: apply consistent indentation
