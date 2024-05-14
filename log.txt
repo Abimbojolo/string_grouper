@@ -247,3 +247,4 @@
 0561. 📚 docs: write FAQ section
 0142. ✨ feat: implement quiz timer feature
 0901. ✨ feat: add user authentication
+0453. 🎨 style: standardize quote style
