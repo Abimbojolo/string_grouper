@@ -253,3 +253,4 @@
 0009. ✨ feat: enable dark mode toggle
 0681. ✨ feat: create admin dashboard
 0899. 🚀 perf: cache repeated calculations
+0997. ✅ test: increase coverage on auth module
