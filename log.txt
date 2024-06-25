@@ -255,3 +255,4 @@
 0899. 🚀 perf: cache repeated calculations
 0997. ✅ test: increase coverage on auth module
 0096. 🐛 fix: prevent crash on empty input
+0649. 📚 docs: update README with setup steps
