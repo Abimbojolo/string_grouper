@@ -257,3 +257,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0649. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
+0478. 🐛 fix: resolve issue with date parsing
