@@ -267,3 +267,4 @@
 0700. 🎨 style: rename variables for clarity
 0555. ✨ feat: create admin dashboard
 0551. 📚 docs: write FAQ section
+0675. 🔧 refactor: organize models into subfolders
