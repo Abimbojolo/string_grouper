@@ -271,3 +271,4 @@
 0313. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
 0762. 🚀 perf: lazy-load components
+0857. 🎨 style: rename variables for clarity
