@@ -66,3 +66,4 @@
 0844. 📚 docs: update README with setup steps
 0100. ♻️ chore: update .gitignore
 0330. ✅ test: test user registration edge cases
+0748. 🚀 perf: optimize database query for quiz results
