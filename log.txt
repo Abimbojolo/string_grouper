@@ -275,3 +275,4 @@
 0165. 🎨 style: remove trailing whitespace
 0379. ✨ feat: support email verification
 0486. ✨ feat: add export to CSV option
+0483. 📚 docs: update README with setup steps
