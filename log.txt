@@ -278,3 +278,4 @@
 0483. 📚 docs: update README with setup steps
 0038. 🎨 style: rename variables for clarity
 0103. 🔧 refactor: remove redundant code blocks
+0363. 📚 docs: clarify environment setup
