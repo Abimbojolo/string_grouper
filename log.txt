@@ -91,3 +91,4 @@
 0548. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
 0860. 🔧 refactor: organize models into subfolders
+0779. 🔧 refactor: organize models into subfolders
