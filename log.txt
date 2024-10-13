@@ -94,3 +94,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0319. 🐛 fix: handle 500 error in quiz API
 0830. 🎨 style: apply consistent indentation
+0692. ✅ test: add integration test for /submit endpoint
