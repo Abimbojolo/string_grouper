@@ -101,3 +101,4 @@
 0195. 📚 docs: clarify environment setup
 0147. ♻️ chore: bump dependencies
 0453. 🎨 style: standardize quote style
+0617. ✨ feat: support email verification
