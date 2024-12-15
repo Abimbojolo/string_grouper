@@ -295,3 +295,4 @@
 0611. ✅ test: test user registration edge cases
 0858. ♻️ chore: clean up unused files
 0759. 🔧 refactor: organize models into subfolders
+0688. 🚀 perf: reduce image load time
