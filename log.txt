@@ -313,3 +313,4 @@
 0372. ✨ feat: add user authentication
 0200. 🐛 fix: handle 500 error in quiz API
 0861. ♻️ chore: clean up unused files
+0821. ✅ test: add integration test for /submit endpoint
