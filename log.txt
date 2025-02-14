@@ -113,3 +113,4 @@
 0593. 🐛 fix: correct typo in registration form
 0257. 📚 docs: clarify environment setup
 0111. 📚 docs: update README with setup steps
+0533. ♻️ chore: add GitHub actions badge
