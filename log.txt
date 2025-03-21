@@ -324,3 +324,4 @@
 0365. 🚀 perf: reduce image load time
 0461. ✨ feat: add user authentication
 0115. 🚀 perf: reduce image load time
+0548. 📚 docs: write FAQ section
