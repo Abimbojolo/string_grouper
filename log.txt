@@ -332,3 +332,4 @@
 0298. ♻️ chore: update .gitignore
 0667. ✨ feat: add export to CSV option
 0076. 🎨 style: reformat files with black
+0602. 🔧 refactor: remove redundant code blocks
