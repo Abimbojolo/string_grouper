@@ -335,3 +335,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0432. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
+0785. ✨ feat: enable dark mode toggle
