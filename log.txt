@@ -145,3 +145,4 @@
 0279. ✨ feat: support email verification
 0244. ✨ feat: add export to CSV option
 0812. 🔧 refactor: refactor quiz grading logic
+0050. ✨ feat: enable dark mode toggle
