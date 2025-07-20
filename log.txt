@@ -350,3 +350,4 @@
 0184. 📚 docs: improve code comments in utils
 0891. ✨ feat: create admin dashboard
 0977. 🔧 refactor: organize models into subfolders
+0110. 🐛 fix: prevent crash on empty input
