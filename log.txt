@@ -352,3 +352,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0110. 🐛 fix: prevent crash on empty input
 0378. 🐛 fix: prevent crash on empty input
+0736. 🐛 fix: fix null pointer exception on login
