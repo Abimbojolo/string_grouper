@@ -160,3 +160,4 @@
 0297. 🎨 style: remove trailing whitespace
 0923. ✨ feat: support email verification
 0490. ✨ feat: create admin dashboard
+0115. 🚀 perf: reduce image load time
