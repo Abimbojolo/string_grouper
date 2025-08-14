@@ -360,3 +360,4 @@
 0755. 🚀 perf: cache repeated calculations
 0616. 🚀 perf: lazy-load components
 0140. 🐛 fix: handle 500 error in quiz API
+0732. ♻️ chore: add GitHub actions badge
