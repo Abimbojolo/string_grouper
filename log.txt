@@ -167,3 +167,4 @@
 0991. ♻️ chore: clean up unused files
 0125. ✅ test: add integration test for /submit endpoint
 0471. ✨ feat: support email verification
+0545. 🎨 style: standardize quote style
