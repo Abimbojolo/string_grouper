@@ -170,3 +170,4 @@
 0545. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
 0169. 📚 docs: add API usage examples
+0064. 📚 docs: clarify environment setup
