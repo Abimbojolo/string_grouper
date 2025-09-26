@@ -174,3 +174,4 @@
 0819. 🚀 perf: reduce image load time
 0934. ✨ feat: support email verification
 0520. 🐛 fix: fix null pointer exception on login
+0601. ✨ feat: implement quiz timer feature
