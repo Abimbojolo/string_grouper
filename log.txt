@@ -376,3 +376,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0965. 🎨 style: reformat files with black
 0152. ✨ feat: add user authentication
+0599. ✅ test: test user registration edge cases
