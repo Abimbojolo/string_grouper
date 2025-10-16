@@ -178,3 +178,4 @@
 0646. ✅ test: test user registration edge cases
 0445. 📚 docs: improve code comments in utils
 0228. 🔧 refactor: remove redundant code blocks
+0971. 🎨 style: standardize quote style
