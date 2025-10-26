@@ -187,3 +187,4 @@
 0650. ✅ test: add unit test for quiz service
 0789. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
+0305. ✨ feat: enable dark mode toggle
