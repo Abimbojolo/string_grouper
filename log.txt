@@ -381,3 +381,4 @@
 0302. ✨ feat: implement quiz timer feature
 0160. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
+0911. ✅ test: increase coverage on auth module
