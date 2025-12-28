@@ -391,3 +391,4 @@
 0956. 📚 docs: clarify environment setup
 0552. 🐛 fix: fix null pointer exception on login
 0036. 🔧 refactor: clean up auth middleware
+0575. ✅ test: add unit test for quiz service
